@@ -1,0 +1,5 @@
+order_id,customer_id,store_id,order_date,total_amount
+O1001,C001,S001,2024-12-01,17000
+O1002,C002,S002,2024-12-02,55000
+O1003,C003,S001,2024-12-03,2000
+
