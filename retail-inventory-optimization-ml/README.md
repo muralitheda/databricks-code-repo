@@ -1,9 +1,13 @@
 End-to-end guide:
 
-> ✅ Databricks Community Edition. 
+> ✅ Databricks Community Edition.
+
 > ✅ Simple Inventory Optimization (Regression). 
+
 > ✅ Clean MLlib (no unnecessary complexity). 
+
 > ✅ GitHub integration. 
+
 > ✅ Portfolio-ready structure. 
 
 Platform used:
