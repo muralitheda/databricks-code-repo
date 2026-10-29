@@ -1,0 +1,5 @@
+available_quantity,daily_demand,lead_time_days,days_of_stock,predicted_stock_status
+5,4,6,1.25,low
+12,3,5,4.0,low
+25,5,4,5.0,normal
+50,2,3,25.0,normal
